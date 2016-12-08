@@ -28,8 +28,8 @@ void MainWindow::on_button3_clicked()
     w->show();
 }
 ```
-        界面截图如下：
-        ![screenshot1](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot1.png)
+界面截图：
+![screenshot1](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot1.png)
 
-        下面是该控件在一个项目中的使用案例：
-        ![screenshot2](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot2.png)
+下面是该控件在一个项目中的使用案例：
+![screenshot2](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot2.png)
