@@ -1,5 +1,6 @@
 # zlistwidget
-QT控件，继承自QListWidget。本项目可以编译出控件，直接在QTCreator的Design中使用。
+        QT控件，继承自QListWidget。本项目可以编译出插件，直接在QTCreator的Design中使用。
+        主要的源码文件只有zlistwidget.h/zlistwidget.cpp，其它文件是插件项目文件。
 ```cpp
 void MainWindow::on_button3_clicked()
 {
@@ -27,8 +28,8 @@ void MainWindow::on_button3_clicked()
     w->show();
 }
 ```
-界面截图如下：
-![screenshot1](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot1.png)
+        界面截图如下：
+        ![screenshot1](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot1.png)
 
-下面是该控件在一个项目中的使用案例：
-![screenshot2](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot2.png)
+        下面是该控件在一个项目中的使用案例：
+        ![screenshot2](https://github.com/brucezhao/zlistwidget/blob/master/images/Screenshot2.png)
